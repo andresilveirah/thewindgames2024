@@ -9,8 +9,8 @@
 
 <channel>
 	<title>TheWindGames</title>
-	<atom:link href="/thewindgames2024/feed/" rel="self" type="application/rss+xml" />
-	<link>/thewindgames2024/</link>
+	<atom:link href="https://thewindgames.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://thewindgames.com/</link>
 	<description></description>
 	<lastBuildDate>Mon, 18 Sep 2023 15:01:23 +0000</lastBuildDate>
 	<language>en-US</language>
